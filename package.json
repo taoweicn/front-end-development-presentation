@@ -1,0 +1,16 @@
+{
+  "name": "front-end-development-presentation",
+  "version": "0.1.0",
+  "scripts": {
+    "start": "fusuma start",
+    "build": "fusuma build",
+    "deploy": "fusuma deploy"
+  },
+  "repository": "https://github.com/taoweicn/front-end-development-presentation",
+  "author": "TaoWei",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "fusuma": "^0.9.3"
+  }
+}

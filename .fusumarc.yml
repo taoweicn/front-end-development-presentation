@@ -1,0 +1,14 @@
+meta:
+  url:
+  name: 前端开发现状
+  author: TaoWei
+  thumbnail:
+  description:
+  sns:
+slide:
+  sidebar: true
+  theme: nebula
+  targetBlank: true
+extends:
+  js:
+  css: style.css
